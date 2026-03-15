@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **This repository is archived and no longer maintained.**
+> The Spotify API integration used by this project is no longer functioning. The app is not actively deployed or supported.
+
+---
+
 # <img src="./public/music-timeline_icon.png" alt="Music Timeline Icon" width="32" height="30" style="vertical-align: middle" /> Music Timeline
 
 [![Vercel](https://img.shields.io/badge/Hosted%20on-Vercel-black?logo=vercel&logoColor=white)](https://musictimeline.app)
